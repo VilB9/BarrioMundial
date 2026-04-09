@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-coppelBlue: #1C36C6;
+  --color-coppelBlueDark: #101A3F;
+  --color-coppelBlueLight: #EEF2FF;
+  --color-coppelYellow: #FFD100;
+  --color-coppelGreen: #22C55E;
+  
+  --shadow-coppel: 0 4px 20px rgba(28, 54, 198, 0.12);
+  --shadow-coppel-strong: 0 8px 30px rgba(28, 54, 198, 0.2);
+  --color-bgGlobal: #F2F1EC;
+}
+
+@layer base {
+  body {
+    @apply bg-bgGlobal text-zinc-800 selection:bg-coppelYellow selection:text-coppelBlue min-h-screen font-sans;
+  }
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  border-radius: 1.5rem;
+  z-index: 0;
+}

@@ -1,0 +1,14 @@
+﻿
+C:\Users\super\Downloads\BarrioMundial\client\src\Auth.jsx
+  13:13  error  'data' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\super\Downloads\BarrioMundial\client\src\pages\Auth.jsx
+  4:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\super\Downloads\BarrioMundial\client\src\pages\Map.jsx
+   6:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u         no-unused-vars
+  27:10  error  'user' is assigned a value but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+  80:36  error  'category' is defined but never used                                                  no-unused-vars
+
+Ô£û 5 problems (5 errors, 0 warnings)
+
