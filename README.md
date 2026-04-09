@@ -1,5 +1,10 @@
-# BarrioMundial
-Barrio Mundial es una app que conecta turistas del Mundial 2026 con micronegocios locales. 
-Rompemos el sesgo de grandes plataformas con un algoritmo ético que da visibilidad a comercios validados por Ola México. 
-Usando la IA de Gemini, traducimos menús al instante y eliminamos barreras de idioma. 
-Brindamos confianza al turista extranjero y damos al locatario una herramienta sencilla para democratizar la derrama económica.
+# Coppelito + Descubriendo tu barrio
+
+Descubriendo tu Barrio es una Aplicación Web Progresiva (PWA) que actúa
+como una extensión inteligente de Coppel Emprende. No es un marketplace
+más; es un puente que resuelve la brecha de contenido mediante Coppelito, un
+Bot de Inteligencia Artificial Generativa. El proyecto permite que el emprendedor
+se comunique con la app de manera conversacional, y el sistema se encarga del
+resto: traducción, diseño y distribución ética del tráfico. Además, introduce
+un Sistema de Créditos Semanal por Comunidad para fomentar el crecimiento
+orgánico de la red de negocios locales.
